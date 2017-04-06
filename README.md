@@ -33,4 +33,4 @@ To use this project: <br />
  Shan Liu <br />
 
 # Acknowledgements:
-The design is based on existed Nexys Video HDMI Demo project.
+The design is based on existed Nexys Video HDMI Demo project. We use some helper functions from https://github.com/marmot1234/G9_InteractiveStudio to configure the sencond vdma.  
