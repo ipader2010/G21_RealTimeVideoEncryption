@@ -16,12 +16,12 @@ To use this project: <br />
 * src/proj: main hdmi.xpr project
 * src/repo/AES_CTR_1.0: the AXI stream IP contains AES encrytion and decrytion modules
 
- * hdmi.sdk
-   * video_demo/src
-    * video_demo.c: contains all functions to store the image, control data flow for display video after color replacement and laser        detection and animations
-    * video_demo.h
+* src/proj/hdmi.sdk
+   * demo/src
+    * video_demo.c: main file contains all the functions to run the design
+    * video_demo.h:
    * vdma
-      * vdma.c: All the functions to configure the second vdma read and write channel, in addition to operate read, write, parking and        reset.
+      * vdma.c: All the functions to configure the second vdma read and write channels, as well as read, write, parking and reset.
       * vdma.h
 * docs: contains group final report and slides for final presentations.
  * Group Final Report.
