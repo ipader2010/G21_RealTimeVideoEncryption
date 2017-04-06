@@ -1,8 +1,8 @@
 # FPGA-based Real-Time Implementation of AES Algorithm for Encryption & Decryption
 
-#Description
+# Description
 
-#How to use
+# How to use
 To use this project: <br />
  1. Clone this repository. <br />
  2. Add AES_CTR_1.0 to the IP repository (using vivado repository manager).<br />
@@ -12,7 +12,7 @@ To use this project: <br />
  6. Launch SDK tool in vivado. <br />
  7. Program FPGA and run video_demo.c. <br >
 
-#Repository structure
+# Repository structure
 * src/proj: main hdmi.xpr project
  * repo/AES_CTR_1.0: the AXI stream IP contains AES encrytion and decrytion modules
 
@@ -27,10 +27,10 @@ To use this project: <br />
  * Group Final Report.
  * Slides.
 
-#Authors:
-Hao Gu <br />
-Yucheng Tao <br />
-Shan Liu <br />
+# Authors:
+ Hao Gu <br />
+ Yucheng Tao <br />
+ Shan Liu <br />
 
-#Acknowledgements:
+# Acknowledgements:
 The design is based on existed Nexys Video HDMI Demo project.
