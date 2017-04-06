@@ -4,9 +4,9 @@
 
 
 # How to use
-To use this project: <br>
- 1. Clone this repository. <br>
- 2. Add AES_CTR_1.0 to the IP repository (using vivado repository manager).<br>
+To use this project: <br/>
+ 1. Clone this repository. <br/>
+ 2. Add AES_CTR_1.0 to the IP repository (using vivado repository manager).<br/>
  3. Open hdmi.xpr project in vivado. <br/>
  4. Run systhesis, implementation, and generate bitstream. <br/>
  5. Connect to a Nexys Video board. <br/>
