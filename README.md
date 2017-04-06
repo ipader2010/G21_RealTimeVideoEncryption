@@ -33,4 +33,4 @@ To use this project: <br />
  Shan Liu <br />
 
 # Acknowledgements:
-The design is based on existed Nexys Video HDMI Demo project. We used some helper functions from https://github.com/marmot1234/G9_InteractiveStudio to configure the sencond vdma. The AES-CTR IP core was implemented based on https://github.com/kokke/tiny-AES128-C and was verified against the data from National Institute of Standards and Technology Special Publication 800-38A 2001 ED Appendix F: Example Vectors for Modes of Operation of the AES. 
+The design is based on existed Nexys Video HDMI Demo project. We used some helper functions from https://github.com/marmot1234/G9_InteractiveStudio to configure the sencond vdma. The AES-CTR IP core was implemented based on https://github.com/kokke/tiny-AES128-C and was verified against the data from [National Institute of Standards and Technology Special Publication 800-38A 2001 ED](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf) Appendix F: Example Vectors for Modes of Operation of the AES. 
