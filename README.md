@@ -14,7 +14,7 @@ To use this project: <br />
 
 # Repository structure
 * src/proj: main hdmi.xpr project
- * repo/AES_CTR_1.0: the AXI stream IP contains AES encrytion and decrytion modules
+* src/repo/AES_CTR_1.0: the AXI stream IP contains AES encrytion and decrytion modules
 
  * hdmi.sdk
    * video_demo/src
