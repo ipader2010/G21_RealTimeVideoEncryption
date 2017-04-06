@@ -1,7 +1,7 @@
 # FPGA-based Real-Time Implementation of AES Algorithm for Encryption & Decryption
 
 # Description
-
+This is an FPGA implementation of AES-128 CTR mode real-time video encryption and decryption written in verilog and C.
 
 # How to use
 To use this project: <br/>
