@@ -28,11 +28,11 @@ To use this project: <br />
  * Slides.
 
 # Authors:
- Hao Gu <br />
- Yucheng Tao <br />
- Shan Liu <br />
+ Hao Gu <br/>
+ Yucheng Tao <br/>
+ Shan Liu <br/>
 
 # Acknowledgements:
-The design is based on existed Nexys Video HDMI Demo project. 
-We used some helper functions from https://github.com/marmot1234/G9_InteractiveStudio to configure the sencond vdma. 
+The design is based on existed Nexys Video HDMI Demo project. <br/>
+We used some helper functions from https://github.com/marmot1234/G9_InteractiveStudio to configure the sencond vdma. <br/>
 The AES-CTR IP core was implemented based on https://github.com/kokke/tiny-AES128-C and was verified against the data from [National Institute of Standards and Technology Special Publication 800-38A 2001 ED](<a href="http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf">click here</a>) Appendix F: Example Vectors for Modes of Operation of the AES. 
