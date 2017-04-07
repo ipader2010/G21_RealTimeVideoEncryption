@@ -25,8 +25,8 @@ To use this project: <br/>
       * vdma.c: All the functions to configure the second vdma read and write channels, as well as read, write, parking and reset.
       * vdma.h
 * docs: contains group final report and slides for final presentations.
- * Group Final Report
- * Final Demo Presentation
+  * Group Final Report
+  * Final Demo Presentation
 
 # Authors:
  Hao Gu <br/>
