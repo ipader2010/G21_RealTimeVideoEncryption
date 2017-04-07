@@ -1,0 +1,13 @@
+/*
+ * vga_modes.h
+ *
+ *  Created on: Mar 29, 2017
+ *      Author: flamboyant
+ */
+
+#ifndef SRC_DISPLAY_CTRL_VGA_MODES_H_
+#define SRC_DISPLAY_CTRL_VGA_MODES_H_
+
+
+
+#endif /* SRC_DISPLAY_CTRL_VGA_MODES_H_ */

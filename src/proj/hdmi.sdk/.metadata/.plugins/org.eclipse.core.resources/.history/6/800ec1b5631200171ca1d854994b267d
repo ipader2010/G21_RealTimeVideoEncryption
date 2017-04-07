@@ -1,0 +1,30 @@
+#ifndef VDMA1_H_
+#define VDMA1_H_
+
+
+
+#include "xil_types.h"
+#include "xaxivdma.h"
+#include "xaxivdma_i.h"
+
+
+void ReadConfig(XAxiVdma *vdma,
+                 XAxiVdma_DmaSetup *vdmaConfig,
+                 XAxiVdma_FrameCounter *frame_count_config);
+
+int DMAReadFromMem(int ind, XAxiVdma *vdma,
+                   XAxiVdma_DmaSetup *vdmaConfig,
+                   XAxiVdma_FrameCounter *frame_count_config,
+                   u8 *Frame_1);
+
+void WriteConfig(XAxiVdma *vdma,
+                 XAxiVdma_DmaSetup *vdmaConfig,
+                 XAxiVdma_FrameCounter *frame_count_config);
+
+int DMAWriteToMem(int ind, XAxiVdma *vdma,
+                  XAxiVdma_DmaSetup *vdmaConfig,
+                  XAxiVdma_FrameCounter *frame_count_config,
+                  u8 *Frame_1);
+
+
+#endif /* VDMA1_H_ */

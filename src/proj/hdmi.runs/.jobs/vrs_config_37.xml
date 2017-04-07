@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="hdmi_axi_vdma_0_3_synth_1" LaunchDir="F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.runs/hdmi_axi_vdma_0_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="hdmi_AES_CTR_0_1_synth_1" LaunchDir="F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.runs/hdmi_AES_CTR_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="hdmi_auto_us_df_0_synth_1" LaunchDir="F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.runs/hdmi_auto_us_df_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="hdmi_auto_us_df_1_synth_1" LaunchDir="F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.runs/hdmi_auto_us_df_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="hdmi_auto_us_df_2_synth_1" LaunchDir="F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.runs/hdmi_auto_us_df_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="hdmi_auto_us_df_3_synth_1" LaunchDir="F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.runs/hdmi_auto_us_df_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="hdmi_axi_vdma_0_3_synth_1"/>
+		<Parent Id="hdmi_AES_CTR_0_1_synth_1"/>
+		<Parent Id="hdmi_auto_us_df_0_synth_1"/>
+		<Parent Id="hdmi_auto_us_df_1_synth_1"/>
+		<Parent Id="hdmi_auto_us_df_2_synth_1"/>
+		<Parent Id="hdmi_auto_us_df_3_synth_1"/>
+	</Run>
+</Runs>
+

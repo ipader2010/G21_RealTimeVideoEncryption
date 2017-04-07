@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2015.3 (64-bit)
+# SW Build 1368829 on Mon Sep 28 20:06:43 MDT 2015
+# 
+# Start of session at: Sat Apr 09 19:42:32 2016
+# Process ID: 10804
+# Current directory: D:/532/G9_InteractiveStudio/src/proj/hdmi.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: D:/532/G9_InteractiveStudio/src/proj/hdmi.sdk/webtalk/webtalk.log
+# Journal file: D:/532/G9_InteractiveStudio/src/proj/hdmi.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

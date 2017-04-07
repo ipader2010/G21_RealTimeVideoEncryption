@@ -1,0 +1,25 @@
+/*
+ * constants.h
+ *
+ *  Created on: Mar 26, 2017
+ *      Author: flamboyant
+ */
+
+#ifndef CONSTANTS_H_
+#define CONSTANTS_H_
+
+#define POINT_NUM 0
+
+#define W_EN_FRAME_COUNTER 1
+#define R_EN_FRAME_COUNTER 1
+
+#define H_INPUT 1920 * 3 * 4
+#define V_INPUT 1
+#define STRIDE_INPUT H_INPUT
+
+#define OFFSET_READ 1920 * 3 * 2
+#define OFFSET_WRITE OFFSET_READ
+
+#define LOOP (1920 * 3 * 1080) / (H_INPUT * V_INPUT) *2
+
+#endif /* CONSTANTS_H_ */

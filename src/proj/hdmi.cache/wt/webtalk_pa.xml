@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Thu Apr 06 20:58:50 2017">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="dcd72fc231114a4e985fe0cfbab2aca7" type="ProjectID"/>
+<property name="ProjectIteration" value="35" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AutoConnectTarget" value="1" type="JavaHandler"/>
+<property name="CloseProject" value="-2" type="JavaHandler"/>
+<property name="CoreView" value="2" type="JavaHandler"/>
+<property name="CustomizeRSBBlock" value="9" type="JavaHandler"/>
+<property name="DebugWizardCmdHandler" value="6" type="JavaHandler"/>
+<property name="EditDelete" value="15" type="JavaHandler"/>
+<property name="ManageCompositeTargets" value="3" type="JavaHandler"/>
+<property name="NewExportHardware" value="4" type="JavaHandler"/>
+<property name="NewLaunchHardware" value="28" type="JavaHandler"/>
+<property name="OpenBlockDesign" value="12" type="JavaHandler"/>
+<property name="OpenHardwareManager" value="2" type="JavaHandler"/>
+<property name="OpenProject" value="1" type="JavaHandler"/>
+<property name="ProjectSettingsCmdHandler" value="9" type="JavaHandler"/>
+<property name="RecustomizeCore" value="1" type="JavaHandler"/>
+<property name="ReportIPStatus" value="3" type="JavaHandler"/>
+<property name="ReportUtilization" value="4" type="JavaHandler"/>
+<property name="RunBitgen" value="5" type="JavaHandler"/>
+<property name="RunImplementation" value="4" type="JavaHandler"/>
+<property name="RunSchematic" value="1" type="JavaHandler"/>
+<property name="RunSynthesis" value="5" type="JavaHandler"/>
+<property name="RunTrigger" value="21" type="JavaHandler"/>
+<property name="SaveRSBDesign" value="2" type="JavaHandler"/>
+<property name="ShowView" value="3" type="JavaHandler"/>
+<property name="StopTrigger" value="1" type="JavaHandler"/>
+<property name="ToolsOptions" value="2" type="JavaHandler"/>
+<property name="UpgradeIP" value="5" type="JavaHandler"/>
+<property name="ViewLayoutCmd" value="1" type="JavaHandler"/>
+<property name="ViewTaskSynthesis" value="1" type="JavaHandler"/>
+<property name="ZoomFit" value="4" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="AES_CTR_v1_0.v, 471, 207" value="1" type="GuiResourceData"/>
+<property name="APPLY, Apply" value="1" type="GuiResourceData"/>
+<property name="IP, IP" value="1" type="GuiResourceData"/>
+<property name="OK, OK" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_PROJECT_SETTINGS, Project Settings..." value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, hdmi_wrapper - STRUCTURE (hdmi_wrapper.vhd" value="10" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, IP Integrator, Open Block Design], 7, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_REPORT, Report" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_TOOLS, Tools" value="2" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_ADDRESS_EDITOR, Address Editor" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_CODE, Code" value="3" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectSettingsIPPage_TABBED_PANE, PAResourceOtoP.ProjectSettingsIPPage_REPOSITORY_MANAGER, Repository Manager, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectSettingsIPRepositoryPanel_REPOSITORY_CHOOSER, g:/532/projectRepo/src/proj/AXI_Lite_IP_v1.1, 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectSettingsIPRepositoryPanel_REPOSITORY_CHOOSER, g:/532/projectRepo/src/proj/color_laser_detect_ip_v1.44, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectSettingsIPRepositoryPanel_REPOSITORY_CHOOSER, g:/532/projectRepo/src/repo, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SystemTreeView_SYSTEM_TREE, [hdmi, AES_CTR_0], 5" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SystemTreeView_SYSTEM_TREE, [hdmi, AES_CTR_0], 5, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SystemTreeView_SYSTEM_TREE, [hdmi, AES_CTR_0], 5, true, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="RDIResource.AbstractCombinedPanel_REMOVE_SELECTED_ELEMENTS, Remove" value="2" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="1" type="GuiResourceData"/>
+<property name="RDIResourceCommand.RDICommands_CUSTOM_COMMANDS, Customize Commands" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="60" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="47" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

@@ -1,0 +1,139 @@
+/*
+
+Vivado v2016.2 (64-bit)
+SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+Process ID: 2576
+
+Current time: 	3/25/17 2:49:08 PM EDT
+Time zone: 	Eastern Standard Time (America/New_York)
+
+OS: Windows 7
+Version: 6.1
+Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 1
+Default font: family=Tahoma,name=Tahoma,style=plain,size=11
+
+Java version: 	1.8.0_66 64-bit
+Java home: 	C:/Xilinx/Vivado/2016.2/tps/win64/jre
+
+User name: 	liusha18
+User home directory: C:/Users/liusha18
+User working directory: W:/532/example/G9_InteractiveStudio-master/G9_InteractiveStudio-master/src/proj
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI Base root directory: C:/Xilinx/Vivado
+RDI Data directory: C:/Xilinx/Vivado/2016.2/data
+RDI Bin directory: C:/Xilinx/Vivado/2016.2/bin
+
+Vivado preferences path: C:/Users/liusha18/AppData/Roaming/Xilinx/Vivado/2016.2/vivado.ini
+Vivado layouts directory: C:/Users/liusha18/AppData/Roaming/Xilinx/Vivado/2016.2/layouts
+
+GUI allocated memory:	226 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 463 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// aZ:y (cv:JFrame): Older Project Version: addNotify
+// [GUI Memory]: 42 MB (+42059kb) [00:00:03]
+// [Engine Memory]: 414 MB (+282745kb) [00:00:03]
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a:JButton (JPanel:JComponent, aZ:y)
+// Opening Vivado Project: W:\532\example\G9_InteractiveStudio-master\G9_InteractiveStudio-master\src\proj\hdmi.xpr. Version: Vivado v2015.3 
+// bL:g (cv:JFrame):  Open Project : addNotify
+dismissDialog("Older Project Version"); // aZ:y (cv:JFrame)
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project W:/532/example/G9_InteractiveStudio-master/G9_InteractiveStudio-master/src/proj/hdmi.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: IP_LOCK_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 501 MB. GUI used memory: 29 MB. Current time: 3/25/17 2:49:10 PM EDT
+// TclEventType: IP_LOCK_CHANGE
+// [Engine Memory]: 509 MB (+78024kb) [00:00:08]
+// TclEventType: IP_LOCK_CHANGE
+// [Engine Memory]: 583 MB (+51065kb) [00:00:13]
+// TclEventType: IP_LOCK_CHANGE
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 673 MB (+62782kb) [00:00:17]
+// [GUI Memory]: 82 MB (+39070kb) [00:00:17]
+// [Engine Memory]: 964 MB (+270788kb) [00:00:19]
+// [GUI Memory]: 90 MB (+4043kb) [00:00:19]
+// [GUI Memory]: 96 MB (+1987kb) [00:00:19]
+// [GUI Memory]: 102 MB (+795kb) [00:00:19]
+// [GUI Memory]: 107 MB (+532kb) [00:00:20]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: open_project W:/532/example/G9_InteractiveStudio-master/G9_InteractiveStudio-master/src/proj/hdmi.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'D:/532/G9_InteractiveStudio/src/proj' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [Project 1-230] Project 'hdmi.xpr' upgraded for this version of Vivado. INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository 'w:/532/example/G9_InteractiveStudio-master/G9_InteractiveStudio-master/src/repo'. INFO: [IP_Flow 19-1700] Loaded user IP repository 'w:/532/example/G9_InteractiveStudio-master/G9_InteractiveStudio-master/src/proj/color_laser_detect_ip_v1.44'. 
+// Tcl Message: INFO: [IP_Flow 19-1700] Loaded user IP repository 'w:/532/example/G9_InteractiveStudio-master/G9_InteractiveStudio-master/src/proj/AXI_Lite_IP_v1.1'. 
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.2/data/ip'. 
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: hdmi; location: W:/532/example/G9_InteractiveStudio-master/G9_InteractiveStudio-master/src/proj; part: xc7a200tsbg484-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:23 ; elapsed = 00:00:19 . Memory (MB): peak = 1266.289 ; gain = 562.910 
+// Elapsed time: 18 seconds
+dismissDialog("Open Project"); // bL:g (cv:JFrame)
+// [GUI Memory]: 118 MB (+5752kb) [00:00:22]
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// Tcl Message: update_compile_order -fileset sources_1 
+// al:y (cv:JFrame): Project Upgraded: addNotify
+selectButton(PAResourceQtoS.ReportIPStatusInfoDialog_REPORT_IP_STATUS, "Report IP Status"); // a:JButton (JPanel:JComponent, al:y)
+// Run Command: PAResourceCommand.PACommandNames_REPORT_IP_STATUS
+// Tcl Command: 'report_ip_status -name ip_status '
+dismissDialog("Project Upgraded"); // al:y (cv:JFrame)
+// TclEventType: IP_SUMMARY_RESULTS
+// Tcl Message: report_ip_status -name ip_status  
+// HOptionPane Warning: 'The design contains IP with major version changes. Please refer to the Change Log<br>to understand the impact of upgrading an IP with major version change in your design,<br>prior to upgrading. (Report IP Status)'
+// bL:g (cv:JFrame):  Report IP Status : addNotify
+dismissDialog("Report IP Status"); // bL:g (cv:JFrame)
+selectButton("PAResourceItoN.IPStatusResultsView_DESIGN_CONTAINS_IP_WITH_MAJOR_VERSION_OK", "OK"); // BasicOptionPaneUI$ButtonFactory:JButton (JPanel:JComponent, T:JDialog)
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, IP Integrator, Open Block Design]", 7, false); // x:Y (w:G, cv:JFrame)
+// Run Command: PAResourceCommand.PACommandNames_OPEN_BLOCK_DESIGN
+// bL:g (cv:JFrame):  Open Block Design : addNotify
+// TclEventType: LOAD_FEATURE
+// TclEventType: RSB_LOCK_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: LOAD_FEATURE
+// TclEventType: RSB_LOCK_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: RSB_LOCK_CHANGE
+// TclEventType: RSB_OPEN_DIAGRAM
+// [Engine Memory]: 1,033 MB (+21804kb) [00:00:33]
+// Tcl Message: open_bd_design {W:/532/example/G9_InteractiveStudio-master/G9_InteractiveStudio-master/src/proj/hdmi.srcs/sources_1/bd/hdmi/hdmi.bd} 
+// TclEventType: RSB_OPEN_DIAGRAM
+// TclEventType: RSB_CONNECTION_CHANGE
+// TclEventType: RSB_LOCK_CHANGE
+// 'bs' command handler elapsed time: 3 seconds
+dismissDialog("Open Block Design"); // bL:g (cv:JFrame)
+// HMemoryUtils.trashcanNow. Engine heap size: 1,055 MB. GUI used memory: 63 MB. Current time: 3/25/17 2:49:41 PM EDT
+// Tcl Command: 'set_property location {5 2240 -110} [get_bd_cells axi_vdma_1]'
+// TclEventType: RSB_CANVAS_LOCATION
+// Tcl Message: set_property location {5 2240 -110} [get_bd_cells axi_vdma_1] 
+// Tcl Command: 'set_property location {5 2240 -120} [get_bd_cells axi_vdma_1]'
+// TclEventType: RSB_CANVAS_LOCATION
+// Tcl Message: set_property location {5 2240 -120} [get_bd_cells axi_vdma_1] 
+// Run Command: RDIResourceCommand.RDICommands_UNDO
+// Elapsed time: 214 seconds
+typeControlKey(null, null, 'z');
+// TclEventType: RSB_CANVAS_LOCATION
+// Tcl Message: undo 
+// Tcl Message: INFO: [Common 17-17] undo 'set_property location {5 2240 -120} [get_bd_cells axi_vdma_1]' 
+// Run Command: RDIResourceCommand.RDICommands_UNDO
+typeControlKey(null, null, 'z');
+// TclEventType: RSB_CANVAS_LOCATION
+// Tcl Message: undo 
+// Tcl Message: INFO: [Common 17-17] undo 'set_property location {5 2240 -110} [get_bd_cells axi_vdma_1]' 

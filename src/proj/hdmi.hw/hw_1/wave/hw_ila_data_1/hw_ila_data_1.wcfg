@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="2805001fs"></ZoomEndTime>
+      <Cursor1Time time="1000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="19" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TDATA" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TDATA_1" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_1[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_1[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TDATA_2" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_2[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_2[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TDATA_3" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_3[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_3[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TDATA_4" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_4[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_4[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TDATA_5" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_5[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_5[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TDATA_6" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_6[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_6[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TDATA_7" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_7[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TDATA_7[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="hdmi_i/color_mk2_0_M00_AXIS_TDATA" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">hdmi_i/color_mk2_0_M00_AXIS_TDATA[23:8]</obj_property>
+      <obj_property name="ObjectShortName">color_mk2_0_M00_AXIS_TDATA[23:8]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TKEEP" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TKEEP[0:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TKEEP[0:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_s00_axis_tdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_s00_axis_tdata[7:0]</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_s00_axis_tdata[7:0]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="hdmi_i/s00_axis_tdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">hdmi_i/s00_axis_tdata[23:8]</obj_property>
+      <obj_property name="ObjectShortName">s00_axis_tdata[23:8]</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="hdmi_i/axi_vdma_1_M_AXIS_MM2S_TLAST" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">hdmi_i/axi_vdma_1_M_AXIS_MM2S_TLAST</obj_property>
+      <obj_property name="ObjectShortName">axi_vdma_1_M_AXIS_MM2S_TLAST</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="hdmi_i/axi_vdma_1_M_AXIS_MM2S_TREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">hdmi_i/axi_vdma_1_M_AXIS_MM2S_TREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_vdma_1_M_AXIS_MM2S_TREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="hdmi_i/axi_vdma_1_M_AXIS_MM2S_TVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">hdmi_i/axi_vdma_1_M_AXIS_MM2S_TVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_vdma_1_M_AXIS_MM2S_TVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="hdmi_i/color_mk2_0_M00_AXIS_TLAST" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">hdmi_i/color_mk2_0_M00_AXIS_TLAST</obj_property>
+      <obj_property name="ObjectShortName">color_mk2_0_M00_AXIS_TLAST</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="hdmi_i/color_mk2_0_M00_AXIS_TREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">hdmi_i/color_mk2_0_M00_AXIS_TREADY</obj_property>
+      <obj_property name="ObjectShortName">color_mk2_0_M00_AXIS_TREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="u_ila_0_color_mk2_0_M00_AXIS_TUSER" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">u_ila_0_color_mk2_0_M00_AXIS_TUSER</obj_property>
+      <obj_property name="ObjectShortName">u_ila_0_color_mk2_0_M00_AXIS_TUSER</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="hdmi_i/color_mk2_0_M00_AXIS_TVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="ElementShortName">hdmi_i/color_mk2_0_M00_AXIS_TVALID</obj_property>
+      <obj_property name="ObjectShortName">color_mk2_0_M00_AXIS_TVALID</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+   </wvobject>
+</wave_config>

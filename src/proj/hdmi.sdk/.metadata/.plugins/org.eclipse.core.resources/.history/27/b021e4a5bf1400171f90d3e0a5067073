@@ -1,0 +1,347 @@
+/*
+ * vdma.c
+ *
+ *  Created on: Mar 13, 2016
+ *      Author: Farshad
+ */
+
+/* ------------------------------------------------------------ */
+/*				Include File Definitions						*/
+/* ------------------------------------------------------------ */
+#include "vdma.h"
+#include "constants.h"
+
+
+
+/* ------------------------------------------------------------ */
+/*				Procedure Definitions1
+ * 5							*/
+/* ------------------------------------------------------------ */
+
+/* ------------------------------------------------------------ */
+/*				Procedure Read config					        */
+/* ------------------------------------------------------------ */
+void read_config(XAxiVdma *vdma,
+				 XAxiVdma_DmaSetup *vdmaConfig,
+				 XAxiVdma_FrameCounter *frame_count_config
+				 )
+{
+	int Status;
+	/*
+		 * Configure the VDMA to access a frame with the same dimensions as the
+		 * current mode
+		 */
+		vdmaConfig->VertSizeInput = V_INPUT;
+		vdmaConfig->HoriSizeInput = H_INPUT;
+	//	vdmaConfig.FixedFrameStoreAddr = 0;
+		vdmaConfig->Stride = STRIDE_INPUT;
+		//xil_printf("FixedFrameStoreAddr %x\r\n", vdmaConfig->FixedFrameStoreAddr);
+
+		/*
+		 * Initialize the VDMA Read configuration struct
+		 */
+		vdmaConfig->FrameDelay = 0;
+		vdmaConfig->EnableCircularBuf = 1;
+		vdmaConfig->EnableSync = 0;
+		vdmaConfig->PointNum = POINT_NUM;
+		vdmaConfig->EnableFrameCounter = R_EN_FRAME_COUNTER;
+
+
+		// Configure Frame counter
+		if(R_EN_FRAME_COUNTER == 1){
+			frame_count_config->ReadFrameCount = 1;
+			frame_count_config->WriteFrameCount = 1;
+			frame_count_config->ReadDelayTimerCount = 0;
+			frame_count_config->WriteDelayTimerCount = 0;
+		}
+		if(R_EN_FRAME_COUNTER == 1)
+					Status = XAxiVdma_SetFrameCounter(vdma, frame_count_config);
+		Status = XAxiVdma_DmaConfig(vdma, XAXIVDMA_READ, (vdmaConfig));
+		//xil_printf("Read channel status is %d\r\n", Status);
+		if (Status != XST_SUCCESS)
+		{
+			xil_printf("Read channel config failed %d\r\n", Status);
+			return XST_FAILURE;
+		}
+}
+
+/* ------------------------------------------------------------ */
+/*				Procedure Write config					        */
+/* ------------------------------------------------------------ */
+void write_config(XAxiVdma *vdma,
+				 XAxiVdma_DmaSetup *vdmaConfig_2,
+				 XAxiVdma_FrameCounter *frame_count_config
+				 )
+{
+
+	int Status;
+	/*
+	 * Configure the VDMA to access a frame with the same dimensions as the
+	 * current mode
+	 */
+	vdmaConfig_2->VertSizeInput = V_INPUT;
+	vdmaConfig_2->HoriSizeInput = H_INPUT;
+//	vdmaConfig_2->FixedFrameStoreAddr = 0;
+	vdmaConfig_2->Stride = STRIDE_INPUT;
+
+	/*
+	 * Initialize the VDMA Read configuration struct
+	 */
+	vdmaConfig_2->FrameDelay = 0;
+	vdmaConfig_2->EnableCircularBuf = 1;
+	vdmaConfig_2->EnableSync = 0;
+	vdmaConfig_2->PointNum = POINT_NUM;
+	vdmaConfig_2->EnableFrameCounter = W_EN_FRAME_COUNTER;
+//
+//	// Configure Frame counter
+
+//	Status = XAxiVdma_SetFrameCounter(vdma, frame_count_config);
+	Status = XAxiVdma_DmaConfig(vdma, XAXIVDMA_WRITE, vdmaConfig_2);
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf( "Write channel config failed %d\r\n", Status);
+		return XST_FAILURE;
+	}
+}
+
+/* ------------------------------------------------------------ */
+/*				Procedure Read from memory						*/
+/* ------------------------------------------------------------ */
+int dma_read_from_memory(int ind, XAxiVdma *vdma, XAxiVdma_DmaSetup *vdmaConfig, XAxiVdma_FrameCounter *frame_count_config, u8 *Frame_1)
+{
+	int Status;
+
+
+	vdmaConfig->FrameStoreStartAddr[0] = (u32) (Frame_1 + ind*OFFSET_READ);
+
+
+	Status = XAxiVdma_DmaSetBufferAddr(vdma, XAXIVDMA_READ,(vdmaConfig->FrameStoreStartAddr));
+	// DEBUG
+	//xil_printf("vdmaConfig.FrameStoreStartAddr %x\r\n", (vdmaConfig->FrameStoreStartAddr));
+
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf( "Read channel set buffer address failed %d\r\n", Status);
+		return XST_FAILURE;
+	}
+
+	Status = XAxiVdma_DmaStart(vdma, XAXIVDMA_READ);
+	//xil_printf( "Start read transfer status %d\r\n", Status);
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf( "Start read transfer failed %d\r\n", Status);
+		return XST_FAILURE;
+	}
+	return XST_SUCCESS;
+}
+
+int dma_read_from_memory_offset(int ind, XAxiVdma *vdma, XAxiVdma_DmaSetup *vdmaConfig, XAxiVdma_FrameCounter *frame_count_config, u8 *Frame_1){
+	int Status;
+
+	vdmaConfig->FrameStoreStartAddr[0] = (u32) (Frame_1 + ind*OFFSET_READ - 8*3);
+
+
+	Status = XAxiVdma_DmaSetBufferAddr(vdma, XAXIVDMA_READ,(vdmaConfig->FrameStoreStartAddr));
+	// DEBUG
+	//xil_printf("vdmaConfig.FrameStoreStartAddr %x\r\n", (vdmaConfig->FrameStoreStartAddr));
+
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf( "Read channel set buffer address failed %d\r\n", Status);
+		return XST_FAILURE;
+	}
+
+	Status = XAxiVdma_DmaStart(vdma, XAXIVDMA_READ);
+	//xil_printf( "Start read transfer status %d\r\n", Status);
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf( "Start read transfer failed %d\r\n", Status);
+		return XST_FAILURE;
+	}
+	return XST_SUCCESS;
+}
+
+
+u32 vdma_status_dump(XAxiVdma *InstancePtr, u16 Direction)
+{
+	u32 status = XAxiVdma_GetStatus(InstancePtr, Direction);
+
+	if (Direction == XAXIVDMA_READ) xil_printf("READ\n");
+	if (Direction == XAXIVDMA_WRITE) xil_printf("WRITE\n");
+
+	if (status & XAXIVDMA_SR_HALTED_MASK) xil_printf("halted\n"); else xil_printf("running\n");
+	if (status & XAXIVDMA_SR_IDLE_MASK) xil_printf("idle\n");
+	if (status & XAXIVDMA_SR_ERR_INTERNAL_MASK) xil_printf("internal err\n");
+	if (status & XAXIVDMA_SR_ERR_SLAVE_MASK) xil_printf("slave err\n");
+	if (status & XAXIVDMA_SR_ERR_DECODE_MASK) xil_printf("decode err\n");
+	if (status & XAXIVDMA_SR_ERR_FSZ_LESS_MASK) xil_printf("FSize Less Mismatch err\n");
+	if (status & XAXIVDMA_SR_ERR_LSZ_LESS_MASK) xil_printf("LSize Less Mismatch err\n");
+	if (status & XAXIVDMA_SR_ERR_SG_SLV_MASK) xil_printf("SG slave err\n");
+	if (status & XAXIVDMA_SR_ERR_SG_DEC_MASK) xil_printf("SG decode err\n");
+	if (status & XAXIVDMA_SR_ERR_FSZ_MORE_MASK) xil_printf("FSize More Mismatch err\n");
+
+	return status;
+}
+
+
+int FrameColorTest(u8 *srcFrame, u32 width, u32 height, u32 stride, u32 lineStart)
+{
+	u32 xcoi, ycoi;
+	for(ycoi = 0; ycoi < height; ycoi++)
+	{
+		for(xcoi = 0; xcoi < (width * 3); xcoi+=3)
+		{
+			if(srcFrame[xcoi + lineStart] != 255 ||
+					srcFrame[xcoi + lineStart + 1] != 255 ||
+					srcFrame[xcoi + lineStart + 2] != 255)
+				return 0;
+		}
+		lineStart += stride;
+	}
+	return 1;
+}
+
+/* ------------------------------------------------------------ */
+/*				Procedure Write from memory						*/
+/* ------------------------------------------------------------ */
+int dma_write_to_memory(int ind, XAxiVdma *vdma, XAxiVdma_DmaSetup *vdmaConfig, XAxiVdma_FrameCounter *frame_count_config, u8 *Frame_1)
+{
+	int Status;
+
+	vdmaConfig->FrameStoreStartAddr[0] = (u32) (Frame_1 + ind*OFFSET_WRITE);
+
+
+	Status = XAxiVdma_DmaSetBufferAddr(vdma, XAXIVDMA_WRITE, vdmaConfig->FrameStoreStartAddr);
+
+	if (Status != XST_SUCCESS)
+	{
+
+		xil_printf( "Write channel set buffer address failed %d\r\n", Status);
+		return XST_FAILURE;
+	}
+
+	Status = XAxiVdma_DmaStart(vdma, XAXIVDMA_WRITE);
+	//xil_printf("Write channel start status is %d\r\n", Status);
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf("Start Write transfer failed %d\r\n", Status);
+		vdma_status_dump(vdma, XAXIVDMA_WRITE);
+		return XST_FAILURE;
+	}
+
+//	if(FrameColorTest(Frame_1, 1920, V_INPUT, STRIDE_INPUT, ind*OFFSET_WRITE) == 1)
+//			xil_printf("\n black \n");
+
+	return XST_SUCCESS;
+}
+
+int dma_write_to_memory_offset(int ind, XAxiVdma *vdma, XAxiVdma_DmaSetup *vdmaConfig, XAxiVdma_FrameCounter *frame_count_config, u8 *Frame_1){
+
+	int Status;
+
+	vdmaConfig->FrameStoreStartAddr[0] = (u32) (Frame_1 + ind*OFFSET_WRITE - 8*3);
+
+
+	Status = XAxiVdma_DmaSetBufferAddr(vdma, XAXIVDMA_WRITE, vdmaConfig->FrameStoreStartAddr);
+
+	if (Status != XST_SUCCESS)
+	{
+
+		xil_printf( "Write channel set buffer address failed %d\r\n", Status);
+		return XST_FAILURE;
+	}
+
+	Status = XAxiVdma_DmaStart(vdma, XAXIVDMA_WRITE);
+	//xil_printf("Write channel start status is %d\r\n", Status);
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf("Start Write transfer failed %d\r\n", Status);
+		vdma_status_dump(vdma, XAXIVDMA_WRITE);
+		return XST_FAILURE;
+	}
+
+//	if(FrameColorTest(Frame_1, 1920, V_INPUT, STRIDE_INPUT, ind*OFFSET_WRITE) == 1)
+//			xil_printf("\n black \n");
+
+	return XST_SUCCESS;
+}
+
+/* ------------------------------------------------------------ */
+/*				Procedure stop write vdma    				    */
+/* ------------------------------------------------------------ */
+int Stop_Dma_write(XAxiVdma *vdma)
+{
+	/*
+	 * Stop the VDMA core
+	 */
+	XAxiVdma_DmaStop(vdma, XAXIVDMA_WRITE);
+	while(XAxiVdma_IsBusy(vdma, XAXIVDMA_WRITE));
+	if (XAxiVdma_GetDmaChannelErrors(vdma, XAXIVDMA_WRITE))
+	{
+		xil_printf("Clearing DMA errors...\r\n");
+		XAxiVdma_ClearDmaChannelErrors(vdma, XAXIVDMA_WRITE, 0xFFFFFFFF);
+		return XST_DMA_ERROR;
+	}
+	xil_printf("Stop DMA complete\r\n");
+	return XST_SUCCESS;
+}
+
+/* ------------------------------------------------------------ */
+/*				Procedure stop read vdma    				    */
+/* ------------------------------------------------------------ */
+int Stop_Dma_read(XAxiVdma *vdma)
+{
+	/*
+	 * Stop the VDMA core
+	 */
+	XAxiVdma_DmaStop(vdma, XAXIVDMA_READ);
+	while(XAxiVdma_IsBusy(vdma, XAXIVDMA_READ));
+	if (XAxiVdma_GetDmaChannelErrors(vdma, XAXIVDMA_READ))
+	{
+		xil_printf("Clearing DMA errors...\r\n");
+		XAxiVdma_ClearDmaChannelErrors(vdma, XAXIVDMA_READ, 0xFFFFFFFF);
+		return XST_DMA_ERROR;
+	}
+	xil_printf("Stop DMA complete\r\n");
+	return XST_SUCCESS;
+}
+
+/* ------------------------------------------------------------ */
+/*				Procedure parking write vdma    				*/
+/* ------------------------------------------------------------ */
+int parking_write(XAxiVdma *vdma)
+{
+	int Status;
+	Status = XAxiVdma_StartParking(vdma, 2, XAXIVDMA_WRITE);
+	//xil_printf("Write channel parking status is %d\r\n", Status);
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf( "Unable to park the Write channel %d\r\n", Status);
+		return XST_FAILURE;
+	}
+	return XST_SUCCESS;
+}
+
+/* ------------------------------------------------------------ */
+/*				Procedure parking write vdma    				*/
+/* ------------------------------------------------------------ */
+int parking_read(XAxiVdma *vdma)
+{
+	int Status;
+	Status = XAxiVdma_StartParking(vdma, 2, XAXIVDMA_READ);
+	//xil_printf("Write channel parking status is %d\r\n", Status);
+	if (Status != XST_SUCCESS)
+	{
+		xil_printf( "Unable to park the Read channel %d\r\n", Status);
+		return XST_FAILURE;
+	}
+	return XST_SUCCESS;
+}
+
+int reset_dma_write(XAxiVdma *vdma){
+	XAxiVdma_Reset(vdma, XAXIVDMA_WRITE);
+}
+
+int reset_dma_read(XAxiVdma *vdma){
+	XAxiVdma_Reset(vdma, XAXIVDMA_READ);
+}

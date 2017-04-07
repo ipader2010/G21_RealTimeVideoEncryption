@@ -1,0 +1,1896 @@
+12:47:47 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+12:47:48 INFO  : XSDB server has started successfully.
+12:47:49 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+12:50:43 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:50:46 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+12:50:52 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+12:51:17 INFO  : Processor reset is completed for microblaze_0
+12:52:32 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:52:33 INFO  : Processor reset is completed for microblaze_0
+12:53:26 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:53:27 INFO  : Processor reset is completed for microblaze_0
+12:54:52 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:54:53 INFO  : Processor reset is completed for microblaze_0
+12:56:01 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:56:02 INFO  : Processor reset is completed for microblaze_0
+12:57:24 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:57:25 INFO  : Processor reset is completed for microblaze_0
+13:01:53 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:01:54 INFO  : Processor reset is completed for microblaze_0
+13:09:25 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+13:24:41 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+13:24:43 INFO  : XSDB server has started successfully.
+13:24:44 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+13:24:44 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+13:25:29 INFO  : Processor reset is completed for microblaze_0
+13:26:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:26:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+13:26:16 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+13:26:20 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:26:21 INFO  : Processor reset is completed for microblaze_0
+19:10:29 INFO  : Processor reset is completed for microblaze_0
+19:11:22 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:11:23 INFO  : Processor reset is completed for microblaze_0
+19:11:54 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:11:55 INFO  : Processor reset is completed for microblaze_0
+19:17:57 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+19:26:14 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+19:26:15 INFO  : XSDB server has started successfully.
+19:26:16 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+19:26:16 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+19:26:40 INFO  : Processor reset is completed for microblaze_0
+19:28:21 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:28:21 INFO  : Processor reset is completed for microblaze_0
+19:29:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:29:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+19:29:54 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+19:29:59 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:30:00 INFO  : Processor reset is completed for microblaze_0
+19:42:47 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:42:48 INFO  : Processor reset is completed for microblaze_0
+19:46:26 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:46:27 INFO  : Processor reset is completed for microblaze_0
+19:47:55 INFO  : Processor reset is completed for microblaze_0
+19:53:13 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:53:14 INFO  : Processor reset is completed for microblaze_0
+20:05:58 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:05:59 INFO  : Processor reset is completed for microblaze_0
+20:08:48 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+20:27:17 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+20:27:18 INFO  : XSDB server has started successfully.
+20:27:19 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+20:27:19 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+20:28:02 INFO  : Processor reset is completed for microblaze_0
+20:28:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:28:43 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+20:28:48 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+20:28:52 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:28:53 INFO  : Processor reset is completed for microblaze_0
+20:30:25 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:30:26 INFO  : Processor reset is completed for microblaze_0
+20:31:05 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:31:06 INFO  : Processor reset is completed for microblaze_0
+20:31:52 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:31:53 INFO  : Processor reset is completed for microblaze_0
+20:34:15 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:34:16 INFO  : Processor reset is completed for microblaze_0
+21:02:50 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+08:18:38 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+08:18:40 INFO  : XSDB server has started successfully.
+08:18:40 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+08:18:41 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+08:24:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:24:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+08:24:11 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+08:25:45 INFO  : Processor reset is completed for microblaze_0
+08:26:15 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+08:26:16 INFO  : Processor reset is completed for microblaze_0
+08:33:00 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+08:33:01 INFO  : Processor reset is completed for microblaze_0
+08:34:58 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+08:34:59 INFO  : Processor reset is completed for microblaze_0
+08:36:12 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+08:36:13 INFO  : Processor reset is completed for microblaze_0
+08:53:53 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+09:13:13 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+09:13:14 INFO  : XSDB server has started successfully.
+09:13:14 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+09:13:14 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+09:13:29 INFO  : Processor reset is completed for microblaze_0
+09:56:44 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+10:04:47 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+10:04:49 INFO  : XSDB server has started successfully.
+10:04:50 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+10:04:50 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+10:13:41 INFO  : Processor reset is completed for microblaze_0
+10:14:36 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:14:37 INFO  : Processor reset is completed for microblaze_0
+10:15:27 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:15:28 INFO  : Processor reset is completed for microblaze_0
+10:17:14 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:17:15 INFO  : Processor reset is completed for microblaze_0
+10:18:24 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:18:25 INFO  : Processor reset is completed for microblaze_0
+10:19:00 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:19:01 INFO  : Processor reset is completed for microblaze_0
+10:19:50 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:19:51 INFO  : Processor reset is completed for microblaze_0
+10:20:24 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:20:25 INFO  : Processor reset is completed for microblaze_0
+10:20:37 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:20:38 INFO  : Processor reset is completed for microblaze_0
+10:21:18 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:21:19 INFO  : Processor reset is completed for microblaze_0
+10:21:52 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:21:53 INFO  : Processor reset is completed for microblaze_0
+10:22:38 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:22:39 INFO  : Processor reset is completed for microblaze_0
+10:24:37 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:24:38 INFO  : Processor reset is completed for microblaze_0
+10:29:09 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:29:10 INFO  : Processor reset is completed for microblaze_0
+10:41:25 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+10:41:26 INFO  : Processor reset is completed for microblaze_0
+10:46:52 INFO  : Processor reset is completed for microblaze_0
+10:50:38 INFO  : Processor reset is completed for microblaze_0
+14:15:30 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+14:15:30 ERROR : Timeout occured while waiting to get reply for command "xdisconnect 0"
+14:15:30 ERROR : Disconnect target failed.
+14:16:33 ERROR : Disconnect target failed.No active Target 0
+
+14:16:33 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: No active Target 0
+
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:329)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:308)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$2.run(BundleContextImpl.java:771)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:764)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:510)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:566)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:200)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+14:16:33 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:02:19 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+15:02:21 INFO  : XSDB server has started successfully.
+15:02:21 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+15:02:22 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+15:03:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:03:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+15:03:25 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+15:04:02 INFO  : Processor reset is completed for microblaze_0
+15:31:58 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:32:00 INFO  : Processor reset is completed for microblaze_0
+15:34:30 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:34:31 INFO  : Processor reset is completed for microblaze_0
+21:04:58 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+08:19:13 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+08:19:14 INFO  : XSDB server has started successfully.
+08:19:14 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+08:19:15 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+12:21:25 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+12:21:27 INFO  : XSDB server has started successfully.
+12:21:27 INFO  : Processing command line option -hwspec C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+12:21:28 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+12:22:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:22:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+12:22:37 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+12:23:18 INFO  : Processor reset is completed for microblaze_0
+12:40:10 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:40:11 INFO  : Processor reset is completed for microblaze_0
+12:40:36 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:40:37 INFO  : Processor reset is completed for microblaze_0
+12:51:33 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+12:51:34 INFO  : Processor reset is completed for microblaze_0
+13:05:23 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:05:24 INFO  : Processor reset is completed for microblaze_0
+13:08:18 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:08:19 INFO  : Processor reset is completed for microblaze_0
+13:18:01 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:18:02 INFO  : Processor reset is completed for microblaze_0
+13:27:07 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:27:08 INFO  : Processor reset is completed for microblaze_0
+16:17:05 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+17:36:17 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+17:36:19 INFO  : XSDB server has started successfully.
+17:36:20 INFO  : Processing command line option -hwspec C:/xup_video_project/latest/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+17:37:22 INFO  : Processor reset is completed for microblaze_0
+17:37:29 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:37:31 INFO  : Processor reset is completed for microblaze_0
+17:42:37 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:42:39 INFO  : Processor reset is completed for microblaze_0
+17:45:36 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:45:37 INFO  : Processor reset is completed for microblaze_0
+17:46:28 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:46:29 INFO  : Processor reset is completed for microblaze_0
+17:48:05 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:48:06 INFO  : Processor reset is completed for microblaze_0
+17:49:27 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:49:28 INFO  : Processor reset is completed for microblaze_0
+17:50:26 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:50:27 INFO  : Processor reset is completed for microblaze_0
+17:51:29 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:51:30 INFO  : Processor reset is completed for microblaze_0
+17:54:19 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:54:20 INFO  : Processor reset is completed for microblaze_0
+17:55:51 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:55:52 INFO  : Processor reset is completed for microblaze_0
+17:58:34 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+17:58:35 INFO  : Processor reset is completed for microblaze_0
+18:00:45 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:00:46 INFO  : Processor reset is completed for microblaze_0
+18:01:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:01:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+18:01:43 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/latest/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+18:02:17 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:02:18 INFO  : Processor reset is completed for microblaze_0
+18:07:16 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:07:17 INFO  : Processor reset is completed for microblaze_0
+18:09:48 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:09:49 INFO  : Processor reset is completed for microblaze_0
+18:13:17 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:13:18 INFO  : Processor reset is completed for microblaze_0
+18:34:04 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:34:05 INFO  : Processor reset is completed for microblaze_0
+18:41:39 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:41:40 INFO  : Processor reset is completed for microblaze_0
+18:43:24 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:43:25 INFO  : Processor reset is completed for microblaze_0
+18:44:32 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:44:32 INFO  : Processor reset is completed for microblaze_0
+18:47:18 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:47:19 INFO  : Processor reset is completed for microblaze_0
+18:49:00 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:49:01 INFO  : Processor reset is completed for microblaze_0
+18:49:25 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:49:26 INFO  : Processor reset is completed for microblaze_0
+18:52:06 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:52:07 INFO  : Processor reset is completed for microblaze_0
+18:53:09 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:53:10 INFO  : Processor reset is completed for microblaze_0
+19:04:35 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+19:12:42 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/2015_3/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+19:12:43 INFO  : XSDB server has started successfully.
+19:12:43 INFO  : Processing command line option -hwspec C:/xup_video_project/latest/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper.hdf.
+19:12:43 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_1.
+19:14:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:14:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276723576B" && level==0} -index 0' command is executed.
+19:14:43 INFO  : FPGA configured successfully with bitstream "C:/xup_video_project/latest/hdmi_vdma_2/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:14:53 INFO  : Processor reset is completed for microblaze_0
+19:15:58 INFO  : Processor reset is completed for microblaze_0
+19:19:18 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:19:19 INFO  : Processor reset is completed for microblaze_0
+19:21:17 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:21:18 INFO  : Processor reset is completed for microblaze_0
+19:38:02 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+19:41:06 INFO  : Launching XSDB server: xsdb.bat G:/Xilinx/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+19:41:09 INFO  : XSDB server has started successfully.
+19:41:11 INFO  : Processing command line option -hwspec D:/532/G9_InteractiveStudio/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+13:17:19 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+13:17:23 INFO  : XSDB server has started successfully.
+13:17:27 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+13:20:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:20:32 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+13:20:38 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+13:22:26 INFO  : Processor reset is completed for microblaze_0
+13:23:18 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+13:23:21 INFO  : Processor reset is completed for microblaze_0
+13:23:27 INFO  : Processor reset is completed for microblaze_0
+13:23:53 INFO  : Processor reset is completed for microblaze_0
+14:38:56 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:10:23 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+15:10:24 INFO  : XSDB server has started successfully.
+15:10:26 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+15:10:26 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+15:13:13 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1490555163126,  Project:1490548210675
+15:13:13 INFO  : Project hdmi_wrapper_hw_platform_0's source hardware specification located at W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+15:13:19 INFO  : Project hdmi_wrapper_hw_platform_0's source hardware specification location will not be monitored anymore.
+15:13:33 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+15:13:34 INFO  : XSDB server has started successfully.
+15:13:36 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+15:14:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:14:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:14:39 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_2/download.bit"
+15:15:06 INFO  : Processor reset is completed for microblaze_0
+15:15:35 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:15:48 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+15:15:49 INFO  : XSDB server has started successfully.
+15:15:49 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+15:15:49 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:15:55 ERROR :  [Common 17-39] 'hsi::open_sw_design' failed due to earlier errors.
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:15:55 INFO  : Unable to read in MSS file W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\video_demo_bsp\system.mss : null
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:15:55 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:15:55 ERROR : Failed to get_connected_periphs
+Reason: ERROR: [Common 17-55] 'get_property' expects at least one object.
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+
+15:16:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:16:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:16:42 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_2/download.bit"
+15:17:03 INFO  : Processor reset is completed for microblaze_0
+15:18:01 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+15:18:03 INFO  : Processor reset is completed for microblaze_0
+15:30:09 INFO  : Processor reset is completed for microblaze_0
+15:31:34 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:31:34 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:31:40 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_2/download.bit"
+15:31:48 INFO  : Processor reset is completed for microblaze_0
+15:33:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:33:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:33:23 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_2/download.bit"
+15:33:29 INFO  : Processor reset is completed for microblaze_0
+15:34:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:34:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:34:51 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_2/download.bit"
+15:35:04 INFO  : Processor reset is completed for microblaze_0
+15:37:45 INFO  : Processor reset is completed for microblaze_0
+15:38:13 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:38:26 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+15:38:27 INFO  : XSDB server has started successfully.
+15:38:27 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+15:38:27 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+15:39:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:39:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:40:04 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_2/download.bit"
+15:40:12 INFO  : Processor reset is completed for microblaze_0
+15:41:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:41:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:42:03 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+15:42:26 INFO  : Processor reset is completed for microblaze_0
+15:43:05 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+
+15:43:05 ERROR : (XSDB Server)ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:43:05 ERROR :  [Common 17-39] 'hsi::open_sw_design' failed due to earlier errors.
+15:43:05 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+
+15:43:05 ERROR : (XSDB Server)ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:43:05 INFO  : Unable to read in MSS file W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\video_demo_bsp\system.mss : null
+15:43:05 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:43:05 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:43:05 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:43:05 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:43:06 ERROR : Failed to get_connected_periphs
+Reason: ERROR: [Common 17-55] 'get_property' expects at least one object.
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+
+15:44:07 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:44:07 ERROR :  [Common 17-39] 'hsi::open_sw_design' failed due to earlier errors.
+15:44:07 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:44:07 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:44:07 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:44:07 INFO  : Unable to read in MSS file W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\video_demo_bsp\system.mss : null
+15:44:07 ERROR : Failed to closesw "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss"
+Reason: Cannot close sw design 'W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss'.
+Design is not opened in the current session.
+
+
+15:44:09 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:44:09 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:44:09 ERROR :  [Common 17-39] 'hsi::open_sw_design' failed due to earlier errors.
+15:44:09 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:44:09 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:44:09 INFO  : Unable to read in MSS file W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\video_demo_bsp\system.mss : null
+15:44:09 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:44:09 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:44:09 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:44:09 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:44:11 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:44:11 ERROR :  [Common 17-39] 'hsi::open_sw_design' failed due to earlier errors.
+15:44:11 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:44:11 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:44:11 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:44:11 INFO  : Unable to read in MSS file W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\video_demo_bsp\system.mss : null
+15:44:11 ERROR : Failed to closesw "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss"
+Reason: Cannot close sw design 'W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss'.
+Design is not opened in the current session.
+
+
+15:46:35 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:46:35 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:46:35 ERROR :  [Common 17-39] 'hsi::open_sw_design' failed due to earlier errors.
+15:46:35 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:46:35 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:46:35 INFO  : Unable to read in MSS file W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\video_demo_bsp\system.mss : null
+15:46:35 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:46:35 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:46:35 ERROR : (XSDB Server)ERROR: [Hsi 55-1594] Core AXI_to_colorIP of version 1.0 not found in repositories
+
+15:46:35 ERROR : (XSDB Server)ERROR: [Hsi 55-1403] W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/video_demo_bsp/system.mss line 21 - No IP instance named AXI_to_colorIP_0 present in hardware design
+ERROR: [Hsi 55-1452] Error: running open_sw_design.
+
+15:46:35 ERROR : Failed to get_connected_periphs
+Reason: ERROR: [Common 17-55] 'get_property' expects at least one object.
+Resolution: If [get_<value>] was used to populate the object, check to make sure this command returns at least one valid object.
+
+15:51:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:51:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:51:08 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+15:53:12 ERROR : Failed to get all peripherals
+Reason: unable to find hardware specification file/project W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_2/system.hdf
+15:53:12 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: Failed to get all peripherals
+Reason: unable to find hardware specification file/project W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_2/system.hdf
+	at com.xilinx.sdk.xsdb.XsdbCommandUtils.handleResult(XsdbCommandUtils.java:301)
+	at com.xilinx.sdk.xsdb.XsdbCommandUtils.executeAndRespond(XsdbCommandUtils.java:239)
+	at com.xilinx.sdk.hw.internal.HwPlatform.populatePeripheralDetails(HwPlatform.java:685)
+	at com.xilinx.sdk.hw.internal.HwPlatform.getProcessorNames(HwPlatform.java:555)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:299)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:827)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:820)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:955)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:323)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1623)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1542)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:248)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:144)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:159)
+	at java.lang.Thread.run(Thread.java:745)
+15:53:12 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:53:27 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+15:53:28 INFO  : XSDB server has started successfully.
+15:53:29 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+15:53:56 INFO  : Refreshed build settings on project video_demo
+15:55:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:55:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:56:02 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+15:56:27 INFO  : Processor reset is completed for microblaze_0
+15:58:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:58:04 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:58:10 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+15:58:15 INFO  : Processor reset is completed for microblaze_0
+16:00:45 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:01:36 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+16:01:36 ERROR : Timeout occured while waiting to get reply for command "xdisconnect 0"
+16:01:36 ERROR : Disconnect target failed.
+16:01:36 ERROR : Disconnect target failed.No active Target 0
+
+16:01:42 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:01:42 ERROR : Disconnect target failed.No active Target 0
+
+16:01:58 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:01:58 ERROR : Disconnect target failed.No active Target 0
+
+16:02:07 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:02:07 ERROR : Disconnect target failed.No active Target 0
+
+16:02:13 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:02:13 ERROR : Disconnect target failed.No active Target 0
+
+16:02:21 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:02:21 ERROR : Disconnect target failed.No active Target 0
+
+16:02:59 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:02:59 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:03:04 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+16:03:10 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:03:11 ERROR : Disconnect target failed.No active Target 0
+
+16:03:17 ERROR : Disconnect target failed.No active Target 0
+
+16:03:17 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: No active Target 0
+
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:329)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:308)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:827)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:820)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:955)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:323)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1623)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1542)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:248)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:144)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:159)
+	at java.lang.Thread.run(Thread.java:745)
+16:03:17 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+16:03:40 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+16:03:41 INFO  : XSDB server has started successfully.
+16:03:41 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+16:03:41 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+16:03:49 INFO  : Processor reset is completed for microblaze_0
+16:19:08 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+16:23:14 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+16:23:15 INFO  : XSDB server has started successfully.
+16:23:16 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+16:23:16 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+16:25:29 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+16:25:30 INFO  : XSDB server has started successfully.
+16:25:30 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+16:25:30 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+16:27:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:27:29 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:27:35 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+16:27:44 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: The program file specified in the launch configuration does not exist
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:580)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:30:18 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+16:30:49 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\final_test3\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+16:30:50 INFO  : XSDB server has started successfully.
+16:30:50 INFO  : Processing command line option -hwspec W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+16:30:50 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+16:32:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:33:01 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:33:08 INFO  : FPGA configured successfully with bitstream "W:/532/final_test3/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_0/download.bit"
+16:33:20 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: The program file specified in the launch configuration does not exist
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:580)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:37:03 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: The program file specified in the launch configuration does not exist
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:580)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+16:51:24 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+13:11:21 INFO  : Launching XSDB server: xsdb.bat -interactive F:\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+13:11:24 INFO  : XSDB server has started successfully.
+13:11:27 INFO  : Processing command line option -hwspec F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+13:13:14 INFO  : Launching XSDB server: xsdb.bat -interactive F:\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+13:13:15 INFO  : XSDB server has started successfully.
+13:13:17 INFO  : Processing command line option -hwspec F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+13:13:17 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_1.
+13:22:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:22:04 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+13:22:10 INFO  : FPGA configured successfully with bitstream "F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+13:22:28 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Project video_demo does not exist. Please check that your launch configuration specifies a valid project in your workspace.
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:580)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+13:22:43 INFO  : Processor reset is completed for microblaze_0
+13:29:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:29:17 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+13:29:23 INFO  : FPGA configured successfully with bitstream "F:/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+13:29:35 INFO  : Processor reset is completed for microblaze_0
+14:23:00 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:15:14 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+15:15:16 INFO  : XSDB server has started successfully.
+15:15:19 INFO  : Processing command line option -hwspec W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+15:16:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:16:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:16:29 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+15:16:49 INFO  : Processor reset is completed for microblaze_0
+15:21:54 INFO  : Processor reset is completed for microblaze_0
+15:23:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:23:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:23:08 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+15:23:16 INFO  : Processor reset is completed for microblaze_0
+15:23:17 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Cannot perform the Debug Command, Current Processor State is "Running"
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+15:23:57 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:24:11 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+15:24:12 INFO  : XSDB server has started successfully.
+15:24:12 INFO  : Processing command line option -hwspec W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+15:24:12 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+15:24:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:24:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:24:54 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+15:25:02 INFO  : Processor reset is completed for microblaze_0
+15:29:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:29:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:30:01 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+15:30:13 INFO  : Processor reset is completed for microblaze_0
+15:32:09 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:32:09 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+15:32:15 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+15:32:29 INFO  : Processor reset is completed for microblaze_0
+16:04:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:04:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:04:21 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:04:42 INFO  : Processor reset is completed for microblaze_0
+16:07:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:07:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:07:43 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:08:27 INFO  : Processor reset is completed for microblaze_0
+16:09:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:09:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:10:04 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:10:18 INFO  : Processor reset is completed for microblaze_0
+16:11:49 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:11:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:11:55 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:12:01 INFO  : Processor reset is completed for microblaze_0
+16:13:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:13:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:13:19 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:13:26 INFO  : Processor reset is completed for microblaze_0
+16:15:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:15:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:15:56 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:16:01 INFO  : Processor reset is completed for microblaze_0
+16:23:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:23:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:23:18 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:26:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:26:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:26:24 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:27:15 INFO  : Processor reset is completed for microblaze_0
+16:28:47 INFO  : Processor reset is completed for microblaze_0
+16:29:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:29:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:29:38 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:29:51 INFO  : Processor reset is completed for microblaze_0
+16:32:25 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:32:25 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:32:30 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:32:46 INFO  : Processor reset is completed for microblaze_0
+16:33:23 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:33:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:33:28 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:33:51 INFO  : Processor reset is completed for microblaze_0
+16:36:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:37:26 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:37:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:37:32 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:38:56 INFO  : Processor reset is completed for microblaze_0
+16:48:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:48:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:48:42 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:49:31 INFO  : Processor reset is completed for microblaze_0
+16:51:31 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:51:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:51:36 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:51:41 INFO  : Processor reset is completed for microblaze_0
+16:53:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:53:17 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:53:22 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:53:30 INFO  : Processor reset is completed for microblaze_0
+16:55:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:55:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:55:35 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:55:47 INFO  : Processor reset is completed for microblaze_0
+16:57:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:57:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:57:39 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:58:00 INFO  : Processor reset is completed for microblaze_0
+16:59:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:59:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+16:59:08 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+16:59:21 INFO  : Processor reset is completed for microblaze_0
+17:00:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:00:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+17:00:42 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+17:00:59 INFO  : Processor reset is completed for microblaze_0
+17:02:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:02:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+17:02:08 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+17:04:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:04:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+17:04:08 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+17:04:18 INFO  : Processor reset is completed for microblaze_0
+17:43:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:43:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+17:43:46 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+17:45:05 INFO  : Processor reset is completed for microblaze_0
+17:47:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:47:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+17:47:45 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+17:47:52 INFO  : Processor reset is completed for microblaze_0
+17:49:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:49:01 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+17:49:07 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+17:49:41 INFO  : Processor reset is completed for microblaze_0
+17:50:37 INFO  : Processor reset is completed for microblaze_0
+18:13:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:13:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:13:52 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:13:58 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+18:14:01 INFO  : Processor reset is completed for microblaze_0
+18:23:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:23:24 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:23:29 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:23:38 INFO  : Processor reset is completed for microblaze_0
+18:26:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:26:10 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:26:16 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:26:21 INFO  : Processor reset is completed for microblaze_0
+18:29:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:29:29 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:29:34 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:29:59 INFO  : Processor reset is completed for microblaze_0
+18:31:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:31:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:31:52 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:31:56 INFO  : Processor reset is completed for microblaze_0
+18:33:20 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:33:20 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:33:26 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:33:33 INFO  : Processor reset is completed for microblaze_0
+18:35:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:35:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:35:36 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:35:44 INFO  : Processor reset is completed for microblaze_0
+18:38:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:38:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:38:25 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:38:31 INFO  : Processor reset is completed for microblaze_0
+18:39:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:39:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:40:00 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:40:04 INFO  : Processor reset is completed for microblaze_0
+18:51:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:51:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:51:19 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:51:24 INFO  : Processor reset is completed for microblaze_0
+18:56:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:56:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:56:12 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:56:17 INFO  : Processor reset is completed for microblaze_0
+18:57:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:57:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+18:57:25 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+18:57:35 INFO  : Processor reset is completed for microblaze_0
+19:00:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:00:04 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:00:10 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:00:16 INFO  : Processor reset is completed for microblaze_0
+19:00:21 INFO  : Processor reset is completed for microblaze_0
+19:01:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:01:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:01:20 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:01:34 INFO  : Processor reset is completed for microblaze_0
+19:02:29 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:02:29 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:02:35 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:02:43 INFO  : Processor reset is completed for microblaze_0
+19:10:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:10:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:10:21 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:10:26 INFO  : Processor reset is completed for microblaze_0
+19:13:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:13:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:14:00 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:14:07 INFO  : Processor reset is completed for microblaze_0
+19:20:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:20:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:20:08 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:20:41 INFO  : Processor reset is completed for microblaze_0
+19:26:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:26:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:26:12 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:26:25 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+19:26:26 INFO  : Processor reset is completed for microblaze_0
+19:28:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:28:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:28:50 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:29:03 INFO  : Processor reset is completed for microblaze_0
+19:31:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:31:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:31:46 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:32:11 INFO  : Processor reset is completed for microblaze_0
+19:35:15 INFO  : Processor reset is completed for microblaze_0
+19:36:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:36:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+19:36:08 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+19:36:20 INFO  : Processor reset is completed for microblaze_0
+19:36:20 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Cannot perform the Debug Command, Current Processor State is "Running"
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+19:36:33 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+19:38:01 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+19:38:03 INFO  : XSDB server has started successfully.
+19:38:04 INFO  : Processing command line option -hwspec W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+19:38:04 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+20:01:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:01:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:01:55 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:02:13 INFO  : Processor reset is completed for microblaze_0
+20:03:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:03:52 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:03:57 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:04:02 INFO  : Processor reset is completed for microblaze_0
+20:05:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:05:42 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:05:47 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:05:56 INFO  : Processor reset is completed for microblaze_0
+20:07:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:07:38 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:07:44 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:08:01 INFO  : Processor reset is completed for microblaze_0
+20:09:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:09:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:09:52 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:09:59 INFO  : Processor reset is completed for microblaze_0
+20:12:08 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:12:08 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:12:14 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:12:23 INFO  : Processor reset is completed for microblaze_0
+20:16:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:16:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:16:08 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:16:14 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:16:30 INFO  : Processor reset is completed for microblaze_0
+20:19:52 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+20:19:52 ERROR : Timeout occured while waiting to get reply for command "xdisconnect 0"
+20:19:52 ERROR : Disconnect target failed.
+20:24:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:24:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:24:46 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:25:25 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+20:25:25 ERROR : Disconnect target failed.No active Target 0
+
+20:25:34 ERROR : Disconnect target failed.No active Target 0
+
+20:25:34 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: No active Target 0
+
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:329)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:308)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:827)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:820)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:955)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:323)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1623)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1542)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:248)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:144)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:159)
+	at java.lang.Thread.run(Thread.java:745)
+20:25:34 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+20:27:09 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+20:27:10 INFO  : XSDB server has started successfully.
+20:27:10 INFO  : Processing command line option -hwspec W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+20:27:10 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+20:27:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:27:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:27:56 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:28:06 INFO  : Processor reset is completed for microblaze_0
+20:30:25 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:30:25 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:30:31 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:30:47 INFO  : Processor reset is completed for microblaze_0
+20:33:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:33:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:33:10 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:33:23 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+20:33:25 INFO  : Processor reset is completed for microblaze_0
+20:34:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:34:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:34:49 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:34:57 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+20:34:57 ERROR : Timeout occured while waiting to get reply for command "xdisconnect 0"
+20:34:57 ERROR : Disconnect target failed.
+20:35:04 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+20:35:04 ERROR : Disconnect target failed.No active Target 0
+
+20:35:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:35:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:35:50 INFO  : FPGA configured successfully with bitstream "W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:35:54 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+20:35:54 ERROR : Disconnect target failed.No active Target 0
+
+20:36:08 ERROR : Disconnect target failed.No active Target 0
+
+20:36:08 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: No active Target 0
+
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:329)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:308)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:827)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:820)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:955)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:323)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1623)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1542)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:248)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:144)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:159)
+	at java.lang.Thread.run(Thread.java:745)
+20:36:08 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+20:36:28 INFO  : Launching XSDB server: xsdb.bat -interactive W:\532\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+20:36:29 INFO  : XSDB server has started successfully.
+20:36:29 INFO  : Processing command line option -hwspec W:/532/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+20:36:29 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_0.
+20:36:50 INFO  : Processor reset is completed for microblaze_0
+20:38:12 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+21:55:55 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+21:55:57 INFO  : XSDB server has started successfully.
+21:56:01 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+22:01:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:01:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:01:09 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:01:23 INFO  : Processor reset is completed for microblaze_0
+22:01:23 ERROR : No such port: COM4
+22:01:39 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:01:45 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:01:48 INFO  : Processor reset is completed for microblaze_0
+22:02:08 INFO  : Processor reset is completed for microblaze_0
+22:02:09 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Unknown Error Occured
+    Target '0' Does NOT exist in the Current System
+
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+22:02:22 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+22:02:37 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+22:02:38 INFO  : XSDB server has started successfully.
+22:02:38 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+22:02:38 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+22:03:12 INFO  : Processor reset is completed for microblaze_0
+22:06:41 INFO  : Processor reset is completed for microblaze_0
+22:07:16 INFO  : Processor reset is completed for microblaze_0
+22:08:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:08:52 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:08:58 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:09:05 INFO  : Processor reset is completed for microblaze_0
+22:10:44 INFO  : Processor reset is completed for microblaze_0
+22:11:50 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:11:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:11:56 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:12:39 INFO  : Processor reset is completed for microblaze_0
+22:12:39 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Cannot perform the Debug Command, Current Processor State is "Running"
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+22:12:51 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+22:13:06 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+22:13:07 INFO  : XSDB server has started successfully.
+22:13:08 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+22:13:08 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+22:13:21 INFO  : Processor reset is completed for microblaze_0
+22:16:04 INFO  : Processor reset is completed for microblaze_0
+22:17:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:17:32 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:17:38 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:17:49 INFO  : Processor reset is completed for microblaze_0
+22:17:49 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Cannot perform the Debug Command, Current Processor State is "Running"
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+22:19:03 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+22:19:19 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+22:19:20 INFO  : XSDB server has started successfully.
+22:19:20 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+22:19:20 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+22:22:27 INFO  : System reset is completed.
+22:22:27 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Debug Operation Not Supported on the Target, Current Processor State is not "Stopped"
+MicroBlaze Pipeline Stalled on a Blocking Instruction or Invalid Bus Access
+    Stalled PC: 0x811d1201
+    Try Resetting the Processor to Continue..
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+22:22:56 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+22:23:11 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+22:23:12 INFO  : XSDB server has started successfully.
+22:23:12 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+22:23:12 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+22:24:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:24:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:24:12 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:24:19 INFO  : System reset is completed.
+22:26:29 INFO  : System reset is completed.
+22:27:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:27:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:28:03 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:28:07 INFO  : System reset is completed.
+22:28:07 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Cannot perform the Debug Command, Current Processor State is "Running"
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+22:29:10 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+22:29:26 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+22:29:27 INFO  : XSDB server has started successfully.
+22:29:27 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+22:29:27 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+22:29:49 INFO  : Processor reset is completed for microblaze_0
+22:31:11 INFO  : Processor reset is completed for microblaze_0
+22:32:22 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:32:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:32:28 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:32:33 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+22:32:41 INFO  : Processor reset is completed for microblaze_0
+22:36:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:36:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:36:07 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:36:34 INFO  : Processor reset is completed for microblaze_0
+22:41:22 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:41:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:41:27 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:41:33 INFO  : Processor reset is completed for microblaze_0
+22:43:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:43:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:43:45 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:43:51 INFO  : Processor reset is completed for microblaze_0
+22:45:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:45:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:45:58 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:46:07 INFO  : Processor reset is completed for microblaze_0
+22:49:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:49:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:49:21 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:49:28 INFO  : Processor reset is completed for microblaze_0
+22:52:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:52:40 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:52:45 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:54:12 INFO  : Processor reset is completed for microblaze_0
+22:56:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:56:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:56:53 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:56:59 INFO  : Processor reset is completed for microblaze_0
+23:00:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:00:38 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:00:44 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:00:49 INFO  : Processor reset is completed for microblaze_0
+23:05:19 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:05:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:05:25 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:05:32 INFO  : Processor reset is completed for microblaze_0
+23:06:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:06:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:07:02 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:07:12 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:07:15 INFO  : Processor reset is completed for microblaze_0
+23:09:49 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:09:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:09:55 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:10:00 INFO  : Processor reset is completed for microblaze_0
+23:11:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:11:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:11:47 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:11:53 INFO  : Processor reset is completed for microblaze_0
+23:21:22 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:21:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:21:28 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:21:42 INFO  : Processor reset is completed for microblaze_0
+23:25:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:25:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:25:47 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:25:53 INFO  : Processor reset is completed for microblaze_0
+23:28:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:28:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:28:20 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:28:29 INFO  : Processor reset is completed for microblaze_0
+23:30:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:30:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:31:02 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:31:08 INFO  : Processor reset is completed for microblaze_0
+23:37:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:37:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:38:01 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:38:08 INFO  : Processor reset is completed for microblaze_0
+23:40:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:40:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:40:18 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:40:25 INFO  : Processor reset is completed for microblaze_0
+23:41:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:41:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:41:56 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:42:01 INFO  : Processor reset is completed for microblaze_0
+23:47:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:47:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:48:00 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:48:02 INFO  : Processor reset is completed for microblaze_0
+23:50:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:50:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:50:39 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:50:44 INFO  : Processor reset is completed for microblaze_0
+23:52:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:52:17 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:52:22 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:52:27 INFO  : Processor reset is completed for microblaze_0
+00:01:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:01:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:01:46 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:02:09 INFO  : Processor reset is completed for microblaze_0
+00:26:08 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:26:08 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:26:13 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:29:02 INFO  : Processor reset is completed for microblaze_0
+00:34:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:34:17 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:34:23 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:34:36 INFO  : Processor reset is completed for microblaze_0
+00:40:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:40:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:40:49 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:41:26 INFO  : Processor reset is completed for microblaze_0
+00:44:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:44:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:44:42 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:44:48 INFO  : Processor reset is completed for microblaze_0
+00:48:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:48:45 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:48:50 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:48:58 INFO  : Processor reset is completed for microblaze_0
+00:50:59 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:50:59 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:51:05 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:51:13 INFO  : Processor reset is completed for microblaze_0
+00:53:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:53:21 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:53:27 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:53:32 INFO  : Processor reset is completed for microblaze_0
+00:56:25 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:56:25 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:56:31 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:56:44 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+00:56:47 INFO  : Processor reset is completed for microblaze_0
+01:03:59 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:03:59 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:04:05 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:04:39 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+01:04:41 INFO  : Processor reset is completed for microblaze_0
+01:06:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:06:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:06:53 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:10:05 INFO  : Processor reset is completed for microblaze_0
+01:12:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:12:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:12:24 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:12:28 INFO  : Processor reset is completed for microblaze_0
+01:16:03 INFO  : Processor reset is completed for microblaze_0
+01:18:07 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:18:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:18:12 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:18:17 INFO  : Processor reset is completed for microblaze_0
+01:20:48 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+01:20:48 ERROR : Timeout occured while waiting to get reply for command "xdisconnect 0"
+01:20:48 ERROR : Disconnect target failed.
+01:22:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:22:38 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:22:44 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:22:51 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+01:22:51 ERROR : Disconnect target failed.No active Target 0
+
+01:23:08 ERROR : Disconnect target failed.No active Target 0
+
+01:23:08 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: No active Target 0
+
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:329)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:308)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:827)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:820)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:955)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:323)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1623)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1542)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:248)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:144)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:159)
+	at java.lang.Thread.run(Thread.java:745)
+01:23:08 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+01:23:27 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+01:23:29 INFO  : XSDB server has started successfully.
+01:23:31 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+01:23:31 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+01:24:26 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:24:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:24:37 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:24:45 INFO  : Processor reset is completed for microblaze_0
+01:29:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:29:42 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:29:48 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:30:22 INFO  : Processor reset is completed for microblaze_0
+01:32:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:32:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:32:19 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:32:24 INFO  : Processor reset is completed for microblaze_0
+01:37:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:37:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:37:10 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:37:29 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+01:37:31 INFO  : Processor reset is completed for microblaze_0
+01:40:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:40:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:40:34 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:40:39 INFO  : Processor reset is completed for microblaze_0
+01:43:08 INFO  : Time out for XMD transaction is 60000
+If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx SDK -> XMD Startup
+01:43:08 ERROR : Timeout occured while waiting to get reply for command "xdisconnect 0"
+01:43:08 ERROR : Disconnect target failed.
+01:43:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:43:32 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:43:38 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:43:43 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: No Active System
+
+	at com.xilinx.sdk.targetmanager.internal.TM.doProcessorReset(TM.java:1011)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runTargetSetup(XilinxAppLaunchConfigurationDelegate.java:455)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:616)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+01:43:43 ERROR : Disconnect target failed.No active Target 0
+
+01:43:52 ERROR : Disconnect target failed.No active Target 0
+
+01:43:52 ERROR : Unable to disconnect from existing targets
+java.lang.RuntimeException: No active Target 0
+
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(TM.java:329)
+	at com.xilinx.sdk.targetmanager.internal.TM.disconnectExistingTargets(TM.java:308)
+	at com.xilinx.sdk.targetmanager.internal.TM.terminate(TM.java:212)
+	at com.xilinx.sdk.targetmanager.TMPlugin.stop(TMPlugin.java:58)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:827)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:820)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:955)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:323)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1623)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1542)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:248)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:144)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:626)
+	at org.eclipse.osgi.container.Module.stop(Module.java:488)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:186)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:159)
+	at java.lang.Thread.run(Thread.java:745)
+01:43:52 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+01:44:06 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+01:44:07 INFO  : XSDB server has started successfully.
+01:44:07 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+01:44:07 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+01:45:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:45:17 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:45:24 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:45:33 INFO  : Processor reset is completed for microblaze_0
+01:49:54 INFO  : Processor reset is completed for microblaze_0
+01:50:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:50:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:50:59 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+01:51:08 INFO  : Processor reset is completed for microblaze_0
+01:51:08 ERROR : Unexpected error while launching program.
+java.lang.RuntimeException: Cannot perform the Debug Command, Current Processor State is "Running"
+
+	at com.xilinx.sdk.targetmanager.internal.TM.downloadELF(TM.java:686)
+	at com.xilinx.sdk.debug.core.internal.AppRunner.run(AppRunner.java:129)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.runApplication(XilinxAppLaunchConfigurationDelegate.java:637)
+	at com.xilinx.sdk.debug.core.XilinxAppLaunchConfigurationDelegate.launch(XilinxAppLaunchConfigurationDelegate.java:309)
+	at com.xilinx.sdk.debug.ui.XilinxAppLaunchDelegateWrapper.launch(XilinxAppLaunchDelegateWrapper.java:31)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+01:51:18 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+01:51:31 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\G9_AES\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+01:51:32 INFO  : XSDB server has started successfully.
+01:51:32 INFO  : Processing command line option -hwspec L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+01:51:32 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_2.
+01:52:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+01:52:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+01:52:34 INFO  : FPGA configured successfully with bitstream "L:/532/G9_AES/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+20:55:43 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\aes_cntmode\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+20:55:44 INFO  : XSDB server has started successfully.
+20:55:44 INFO  : Processing command line option -hwspec L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+20:59:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:59:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+20:59:56 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+21:01:07 INFO  : Processor reset is completed for microblaze_0
+21:43:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:43:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+21:43:36 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+21:43:39 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+21:43:46 INFO  : Processor reset is completed for microblaze_0
+21:47:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:47:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+21:47:41 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+21:47:47 INFO  : Processor reset is completed for microblaze_0
+21:50:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:50:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+21:50:21 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+21:50:47 INFO  : Processor reset is completed for microblaze_0
+21:52:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:52:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+21:52:53 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+21:52:58 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+21:53:01 INFO  : Processor reset is completed for microblaze_0
+22:11:05 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:11:05 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:11:11 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:11:17 INFO  : Processor reset is completed for microblaze_0
+22:18:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:18:21 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:18:26 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:18:31 INFO  : Processor reset is completed for microblaze_0
+22:21:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:21:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:21:21 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:21:29 INFO  : Processor reset is completed for microblaze_0
+22:36:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:36:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:36:56 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:37:00 INFO  : Processor reset is completed for microblaze_0
+22:40:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:40:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:40:22 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:40:54 INFO  : Processor reset is completed for microblaze_0
+22:57:39 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:57:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+22:57:45 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+22:57:50 INFO  : Processor reset is completed for microblaze_0
+23:01:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:01:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:01:59 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:02:20 INFO  : Processor reset is completed for microblaze_0
+23:06:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:06:47 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:06:52 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:06:57 INFO  : Processor reset is completed for microblaze_0
+23:09:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:09:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:09:56 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:10:21 INFO  : Processor reset is completed for microblaze_0
+23:17:43 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:17:43 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:17:48 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:17:55 INFO  : Processor reset is completed for microblaze_0
+23:18:56 INFO  : Processor reset is completed for microblaze_0
+23:19:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:19:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:19:54 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:20:00 INFO  : Processor reset is completed for microblaze_0
+23:21:25 INFO  : Processor reset is completed for microblaze_0
+23:22:23 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:22:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:22:28 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:22:38 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:22:41 INFO  : Processor reset is completed for microblaze_0
+23:30:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:30:10 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:30:15 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:30:40 INFO  : Processor reset is completed for microblaze_0
+23:32:48 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:32:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:32:54 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:34:08 INFO  : Processor reset is completed for microblaze_0
+23:52:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:52:10 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:52:16 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:52:20 INFO  : Processor reset is completed for microblaze_0
+23:53:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:53:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+23:54:03 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+23:54:22 INFO  : Processor reset is completed for microblaze_0
+23:56:46 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+00:12:17 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\aes_cntmode\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+00:12:18 INFO  : XSDB server has started successfully.
+00:12:19 INFO  : Processing command line option -hwspec L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+00:12:19 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_3.
+00:17:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+00:17:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+00:17:34 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+00:17:38 WARN  : Unable to obtain port 2350 for use by XMD, java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+00:17:40 INFO  : Processor reset is completed for microblaze_0
+00:20:29 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+03:53:33 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\aes_cntmode\G9_AES\G9_AES\G9_InteractiveStudio-master\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+03:53:34 INFO  : XSDB server has started successfully.
+03:53:34 INFO  : Processing command line option -hwspec L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+03:53:34 INFO  : Checking for hwspec changes in the project hdmi_wrapper_hw_platform_3.
+03:54:49 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+03:54:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+03:54:59 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+03:55:14 INFO  : Processor reset is completed for microblaze_0
+03:58:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+03:58:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+03:58:41 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+03:58:46 INFO  : Processor reset is completed for microblaze_0
+04:01:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+04:01:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+04:01:41 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+04:01:51 INFO  : Processor reset is completed for microblaze_0
+04:03:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+04:03:32 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+04:03:37 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+04:04:49 INFO  : Processor reset is completed for microblaze_0
+04:13:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+04:13:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+04:13:43 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+04:13:52 INFO  : Processor reset is completed for microblaze_0
+04:42:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+04:42:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+04:42:09 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+04:50:42 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+04:50:45 INFO  : Processor reset is completed for microblaze_0
+04:53:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+04:53:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+04:54:02 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+04:54:11 INFO  : Processor reset is completed for microblaze_0
+04:57:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+04:57:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+04:57:08 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+04:57:12 INFO  : Processor reset is completed for microblaze_0
+05:05:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:05:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:05:19 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:05:31 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+05:05:33 INFO  : Processor reset is completed for microblaze_0
+05:10:28 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:10:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:10:33 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:10:42 INFO  : Processor reset is completed for microblaze_0
+05:14:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:14:32 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:14:38 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:14:45 INFO  : Processor reset is completed for microblaze_0
+05:17:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:17:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:18:04 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:18:16 INFO  : Processor reset is completed for microblaze_0
+05:21:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:21:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:21:59 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:22:06 INFO  : Processor reset is completed for microblaze_0
+05:25:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:25:17 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:25:23 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:25:27 INFO  : Processor reset is completed for microblaze_0
+05:27:08 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:27:08 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:27:14 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:27:21 INFO  : Processor reset is completed for microblaze_0
+05:29:13 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:29:13 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:29:18 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:29:23 INFO  : Processor reset is completed for microblaze_0
+05:43:35 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:43:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:43:41 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:43:45 INFO  : Processor reset is completed for microblaze_0
+05:50:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+05:50:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+05:51:03 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+05:51:12 INFO  : Processor reset is completed for microblaze_0
+06:03:59 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+06:03:59 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+06:04:05 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+06:04:16 INFO  : Processor reset is completed for microblaze_0
+06:05:52 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+06:05:52 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+06:05:57 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+06:17:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+06:17:21 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+06:17:27 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+06:17:33 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+06:17:35 INFO  : Processor reset is completed for microblaze_0
+06:21:43 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+06:21:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+06:21:49 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+06:21:54 INFO  : Processor reset is completed for microblaze_0
+06:33:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+06:33:24 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+06:33:30 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+06:33:38 INFO  : Processor reset is completed for microblaze_0
+06:40:26 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+06:40:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+06:40:31 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+06:40:36 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+06:40:40 INFO  : Processor reset is completed for microblaze_0
+06:45:32 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+06:45:32 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+06:45:38 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+06:45:43 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+06:45:46 INFO  : Processor reset is completed for microblaze_0
+07:14:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+07:14:54 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+07:15:00 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+07:15:04 INFO  : microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+07:15:07 INFO  : Processor reset is completed for microblaze_0
+07:25:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+07:25:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+07:25:21 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+07:25:37 INFO  : Processor reset is completed for microblaze_0
+07:30:20 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+07:30:20 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+07:30:26 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+07:31:12 INFO  : Processor reset is completed for microblaze_0
+07:48:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+07:48:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+07:48:42 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+07:49:05 INFO  : Processor reset is completed for microblaze_0
+07:53:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+07:53:04 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+07:53:10 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+07:53:14 INFO  : Processor reset is completed for microblaze_0
+07:56:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+07:56:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+07:56:39 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+07:56:46 INFO  : Processor reset is completed for microblaze_0
+08:00:12 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:00:12 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:00:18 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:00:29 INFO  : Processor reset is completed for microblaze_0
+08:02:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:02:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:02:43 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:02:49 INFO  : Processor reset is completed for microblaze_0
+08:04:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:04:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:04:44 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:04:49 INFO  : Processor reset is completed for microblaze_0
+08:07:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:07:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:07:21 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:07:32 INFO  : Processor reset is completed for microblaze_0
+08:10:11 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:10:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:10:17 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:10:23 INFO  : Processor reset is completed for microblaze_0
+08:13:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:13:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:13:43 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:14:07 INFO  : Processor reset is completed for microblaze_0
+08:15:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:15:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:16:02 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:16:10 INFO  : Processor reset is completed for microblaze_0
+08:17:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:17:51 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:17:56 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:18:07 INFO  : Processor reset is completed for microblaze_0
+08:21:27 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:21:27 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:21:33 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:21:46 INFO  : Processor reset is completed for microblaze_0
+08:24:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:24:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:25:01 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:25:17 INFO  : Processor reset is completed for microblaze_0
+08:39:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+08:39:57 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Nexys Video 210276689209B" && level==0} -index 0' command is executed.
+08:40:03 INFO  : FPGA configured successfully with bitstream "L:/532/aes_cntmode/G9_AES/G9_AES/G9_InteractiveStudio-master/src/proj/hdmi.sdk/hdmi_wrapper_hw_platform_1/download.bit"
+08:40:24 INFO  : Processor reset is completed for microblaze_0
+08:47:56 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+09:04:22 INFO  : Launching XSDB server: xsdb.bat -interactive L:\532\aes_cntmode\G9_AES\G9_AES\aes_ctr_encryption\src\proj\hdmi.sdk\temp_xsdb_launch_script.tcl
+09:04:24 INFO  : XSDB server has started successfully.
+09:04:25 INFO  : Processing command line option -hwspec L:/532/aes_cntmode/G9_AES/G9_AES/aes_ctr_encryption/src/proj/hdmi.sdk/hdmi_wrapper.hdf.
+09:05:47 INFO  : Connected to target on host '127.0.0.1' and port '3121'.

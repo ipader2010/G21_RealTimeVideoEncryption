@@ -1,0 +1,191 @@
+09:04:59 **** Auto Build of configuration Debug for project demo ****
+make all 
+'Building file: ../src/vdma/vdma.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/vdma/vdma.o" -I../../demo_bsp/microblaze_0/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v9.6 -mno-xl-soft-mul -mxl-multiply-high -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -MMD -MP -MF"src/vdma/vdma.d" -MT"src/vdma/vdma.o" -o "src/vdma/vdma.o" "../src/vdma/vdma.c"
+In file included from ../../demo_bsp/microblaze_0/include/xaxivdma.h:307:0,
+                 from ../src/vdma/vdma.h:16,
+                 from ../src/vdma/vdma.c:11:
+../src/vdma/vdma.c: In function 'read_config':
+../../demo_bsp/microblaze_0/include/xstatus.h:60:41: warning: 'return' with a value, in function returning void
+ #define XST_FAILURE                     1L
+                                         ^
+../src/vdma/vdma.c:64:11: note: in expansion of macro 'XST_FAILURE'
+    return XST_FAILURE;
+           ^
+../src/vdma/vdma.c: In function 'write_config':
+../../demo_bsp/microblaze_0/include/xstatus.h:60:41: warning: 'return' with a value, in function returning void
+ #define XST_FAILURE                     1L
+                                         ^
+../src/vdma/vdma.c:103:10: note: in expansion of macro 'XST_FAILURE'
+   return XST_FAILURE;
+          ^
+../src/vdma/vdma.c: In function 'reset_dma_write':
+../src/vdma/vdma.c:343:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+../src/vdma/vdma.c: In function 'reset_dma_read':
+../src/vdma/vdma.c:347:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+'Finished building: ../src/vdma/vdma.c'
+' '
+'Building file: ../src/video_demo.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/video_demo.o" -I../../demo_bsp/microblaze_0/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v9.6 -mno-xl-soft-mul -mxl-multiply-high -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -MMD -MP -MF"src/video_demo.d" -MT"src/video_demo.o" -o "src/video_demo.o" "../src/video_demo.c"
+../src/video_demo.c: In function 'DemoRun':
+../src/video_demo.c:399:4: warning: implicit declaration of function 'MB_Sleep' [-Wimplicit-function-declaration]
+    MB_Sleep(50);
+    ^
+../src/video_demo.c:314:6: warning: unused variable 'i' [-Wunused-variable]
+  int i;
+      ^
+../src/video_demo.c:312:6: warning: unused variable 'Status' [-Wunused-variable]
+  int Status;
+      ^
+../src/video_demo.c: In function 'decryption':
+../src/video_demo.c:511:21: warning: passing argument 1 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&reds_decrypted, &reds, &key, &pixel_counters);
+                     ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'uint8_t * {aka unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:511:38: warning: passing argument 2 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&reds_decrypted, &reds, &key, &pixel_counters);
+                                      ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'uint8_t * {aka unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:511:45: warning: passing argument 3 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&reds_decrypted, &reds, &key, &pixel_counters);
+                                             ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:511:51: warning: passing argument 4 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&reds_decrypted, &reds, &key, &pixel_counters);
+                                                   ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:512:21: warning: passing argument 1 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&blues_decrypted, &blues, &key, &pixel_counters);
+                     ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'uint8_t * {aka unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:512:39: warning: passing argument 2 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&blues_decrypted, &blues, &key, &pixel_counters);
+                                       ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'uint8_t * {aka unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:512:47: warning: passing argument 3 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&blues_decrypted, &blues, &key, &pixel_counters);
+                                               ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:512:53: warning: passing argument 4 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&blues_decrypted, &blues, &key, &pixel_counters);
+                                                     ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:513:21: warning: passing argument 1 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&greens_decrypted, &greens, &key, &pixel_counters);
+                     ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'uint8_t * {aka unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:513:40: warning: passing argument 2 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&greens_decrypted, &greens, &key, &pixel_counters);
+                                        ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'uint8_t * {aka unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:513:49: warning: passing argument 3 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&greens_decrypted, &greens, &key, &pixel_counters);
+                                                 ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c:513:55: warning: passing argument 4 of 'AES128_CTR_crypt' from incompatible pointer type [-Wincompatible-pointer-types]
+    AES128_CTR_crypt(&greens_decrypted, &greens, &key, &pixel_counters);
+                                                       ^
+In file included from ../src/video_demo.c:44:0:
+../src/aes.h:38:6: note: expected 'const uint8_t * {aka const unsigned char *}' but argument is of type 'u8 (*)[16] {aka unsigned char (*)[16]}'
+ void AES128_CTR_crypt (uint8_t* output, uint8_t* input, const uint8_t* key, const uint8_t* cnt);
+      ^
+../src/video_demo.c: In function 'color_replacement_video':
+../src/video_demo.c:664:7: warning: unused variable 'rInd1' [-Wunused-variable]
+   int rInd1 = 0;
+       ^
+../src/video_demo.c:663:7: warning: unused variable 'rInd' [-Wunused-variable]
+   int rInd = 0;
+       ^
+../src/video_demo.c:662:7: warning: unused variable 'iPixelAddr' [-Wunused-variable]
+   u32 iPixelAddr;
+       ^
+../src/video_demo.c: In function 'PrintRed':
+../src/video_demo.c:1106:9: warning: unused variable 'iPixelAddr2' [-Wunused-variable]
+     u32 iPixelAddr2 = iPixelAddr;
+         ^
+../src/video_demo.c:1101:9: warning: unused variable 'i' [-Wunused-variable]
+     int i;
+         ^
+../src/video_demo.c: In function 'DemoPrintTest':
+../src/video_demo.c:1139:15: warning: unused variable 'yInc' [-Wunused-variable]
+  double xInc, yInc;
+               ^
+../src/video_demo.c:1138:12: warning: unused variable 'yInt' [-Wunused-variable]
+  u32 yMid, yInt;
+            ^
+../src/video_demo.c:1138:6: warning: unused variable 'yMid' [-Wunused-variable]
+  u32 yMid, yInt;
+      ^
+../src/video_demo.c:1137:19: warning: unused variable 'xRight' [-Wunused-variable]
+  u32 xLeft, xMid, xRight, xInt;
+                   ^
+../src/video_demo.c:1137:13: warning: unused variable 'xMid' [-Wunused-variable]
+  u32 xLeft, xMid, xRight, xInt;
+             ^
+../src/video_demo.c:1137:6: warning: unused variable 'xLeft' [-Wunused-variable]
+  u32 xLeft, xMid, xRight, xInt;
+      ^
+../src/video_demo.c:1136:22: warning: unused variable 'fGreen' [-Wunused-variable]
+  double fRed, fBlue, fGreen, fColor;
+                      ^
+../src/video_demo.c:1136:15: warning: unused variable 'fBlue' [-Wunused-variable]
+  double fRed, fBlue, fGreen, fColor;
+               ^
+../src/video_demo.c:1136:9: warning: unused variable 'fRed' [-Wunused-variable]
+  double fRed, fBlue, fGreen, fColor;
+         ^
+'Finished building: ../src/video_demo.c'
+' '
+'Building target: demo.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../demo_bsp/microblaze_0/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v9.6 -mno-xl-soft-mul -mxl-multiply-high -mhard-float -mxl-float-convert -mxl-float-sqrt -Wl,--no-relax -o "demo.elf"  ./src/video_capture/video_capture.o  ./src/vdma/vdma.o  ./src/timer_ps/timer_ps.o  ./src/intc/intc.o  ./src/dynclk/dynclk.o  ./src/display_ctrl/display_ctrl.o  ./src/aes.o ./src/platform.o ./src/video_demo.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: demo.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size demo.elf  |tee "demo.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  80858	   1704	18677006	18759568	11e3f90	demo.elf
+'Finished building: demo.elf.size'
+' '
+
+09:05:02 Build Finished (took 2s.944ms)
+
