@@ -19,8 +19,8 @@ To use this project: <br/>
 
 * src/proj/hdmi.sdk
    * demo/src
-    * video_demo.c: main file contains all the functions to run the design
-    * video_demo.h:
+     * video_demo.c: main file contains all the functions to run the design
+     * video_demo.h:
    * vdma
       * vdma.c: All the functions to configure the second vdma read and write channels, as well as read, write, parking and reset.
       * vdma.h
