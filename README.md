@@ -17,6 +17,7 @@ To use this project: <br/>
 * src/proj: main hdmi.xpr project
 * src/repo/AES_CTR_1.0: the AXI stream IP contains AES encrytion and decrytion modules <br/>
 
+* src/proj/AES_module: ready-to-use AES128-CTR module
 * src/proj/hdmi.sdk
    * demo/src
      * video_demo.c: main file contains all the functions to run the design
